@@ -1,3 +1,5 @@
+[![devtypes receipt for @OdinMB: The Moonlighter (Your four-letter dev type, read from your GitHub). For fun, not an assessment.](https://api.devtypes.com/e/wTtO53zIHgv6Oqh78GJXhg/dev-type-ticket-paper.svg)](https://devtypes.com)
+
 [![devtypes receipt for @OdinMB: The Moonlighter (Your four-letter dev type, read from your GitHub). For fun, not an assessment.](https://api.devtypes.com/e/wTtO53zIHgv6Oqh78GJXhg/dev-type-slip-paper.png)](https://devtypes.com)
 
 <!--
